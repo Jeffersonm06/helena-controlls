@@ -1,0 +1,13 @@
+{
+  "id": "1751809611767",
+  "name": "Wellington Alexandre",
+  "email": "w@gmail.com",
+  "sistema": {
+    "distro": "Arch Linux",
+    "host": "veronica",
+    "usuario": "wellington",
+    "pacote": "pacman",
+    "ambiente": "hyprland",
+    "permiteSudo": true
+  }
+}

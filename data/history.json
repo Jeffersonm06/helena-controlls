@@ -1,0 +1,153 @@
+[
+  {
+    "id": "a448c4fd-30ba-4edc-b68d-15c0782b61a8",
+    "nome": "Conversa 1",
+    "mensagens": [
+      {
+        "mensagem": "opa",
+        "resposta": {
+          "response": "\"Opa\" can have several meanings depending on the language and context.\n\nIn German and Dutch, \"Opa\" is an informal term for \"grandpa\" or \"grandfather.\" It's similar to \"gramps\" or \"grandad\" in English.\n\nAs an exclamation, \"Opa\" is a common emotional expression in many Mediterranean, Eastern European, Middle Eastern, North African, South Asian, Latin American, and Hebrew cultures. It is frequently used during celebrations, such as weddings or traditional dancing, to express enthusiasm, joy, shock, or surprise. In Greek culture, it can also accompany plate smashing or be used when someone makes a mistake. In some contexts, it can mean \"oops\" or \"whoops,\" particularly if something breaks or falls. It can also be a way to get someone's attention, similar to \"Hey!\" in English. In Russian and Romanian culture, \"hopa\" (or \"opa\" in Russian) is used during a short phase of concentration on an action, like throwing a basketball, and can be similar to \"come on\" in English.",
+          "fontes": [
+            {
+              "titulo": "beelinguapp.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGk1-Y6wqfqfsLZLHBipCIKTsw8w6wKeAXH0sduQ2pDcIBh0cAqCpH7hvpEGMdbaIabG9KhJBwfvHDjxoSNO_GGFrUk2hx6GvTsUzsS6BpKMBzkXwXa4lEGoHuSEVMMM1r_LskCiIUg3zwuThSIooCZnS31vJUf2eJL-tBnvpO1now="
+            },
+            {
+              "titulo": "wiktionary.org",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjw0d-cKh1l1fTbcQ-PsfEPwI91aQd-jooL4kRRAs8TXfa_LunEooXhPW_6-poeGUedsQhqqUgnp3CvP8Cpho6vX3oedzcmhtIUgLcPwkNLrXlKs0Kn7l8hCTKNTs="
+            },
+            {
+              "titulo": "woerter.net",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUOzuY1UtINUuAuvN9zBBO9b3ftvnjibLac-gIrFXpg6qBzAjalfhGo60Dm5XGR6icSzCBR-eLOfC0gZkpS-aU4RrmPYiK_HcirmBIZfGEFKCLPOkxKgADZU7b2ZBVwXYPrY5V3E13_Fts6pt0"
+            },
+            {
+              "titulo": "quora.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFKzMIRyijqwm_buGTYZBEuPtLss69uxVFRbck-yUCUuL48Z-BHWKruGCLyOfz5-g-hB-UguQaZKgTWkYnP6icwr7txNNQDx3YYdBqZX333ENksgxuHLyoGjYP8LMco1AA8zp9Pne-5OghDcIqjTxbP1hG7E7ZTjQtGAxO6GZpY5WI42Vi-xdJBgnUHUXcDw=="
+            },
+            {
+              "titulo": "wikipedia.org",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSYTnXCRqLERb2n-GJarBNj2zBBYjoLzZWyz4f55Y8V32jjlvNGjaQmKne-La_3B3Rl0IR9Nd1MoKUet7HN7KEVLyTRkYXTqrPAibBF91aux3Mg0V7Rh0x0CWQlwAUi0RU5VzKxr6Z2_o="
+            },
+            {
+              "titulo": "thegreekgoat.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgtchOF8L0IuVOgcGImJCdnQT9ubVeNgd1Gf0Jdo1iirY_mzsk3Gu9HYVEpf9mWACVOM56YcA30PKSP-G20gDSanvE2UKnwlGRmdr9h3BvFs927z0CNww="
+            },
+            {
+              "titulo": "thoughtco.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELJXfAXylbGPyFAWkW3n5WwN5E6pLFG3SfygYlwbFMu78s_W8Qo0JwaYNe6YbOFfU6FcFpLzt_5hRIvPwigksCKHMz6Qof6px9x_k4ZCBjEZtv9jRdvdVH6fi7TkkKBrkUjEv6Ql4eqA=="
+            },
+            {
+              "titulo": "urbandictionary.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXww5-MeTFhVpmO_2_MY6yX2vfp63DXjRvjazbAXaLCtvcao6PLC-JwRWQlCD-4ePPdHr3CWVkFAGSq5CEsTrS4t-eMXqYnkkdFiZ7oEIvmnNbyqfgdXMpxzuF5Ju9Zu8qicgWCsXaLnYpSvFL4w=="
+            },
+            {
+              "titulo": "quora.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjwd3v28WOfTrJc30x5T17KVvm9G3Zv0YlgrCXHsRfusQ7ThQZ_4wwBqjwh2Rbxe2d93CPrDr-1PDhtasf4EfbCHZVSvMR3fPXD8eKXPW7Nz-4-an5ZqEETqlCKPQqA61d-GKxMGRgw2nQgB1H8qLEtoS3oyhntnEZgwDpOURoBQayJ3nBl1LBUQRXBEkmNW8J4VkGP-_RWYfdX2wm-aKNqT8lRnyHNy7gS-bpd2jhWyQDep2ppdffzdHqPYDYkcsryH66DkrwZmC5uDbvBOsWv1k="
+            }
+          ],
+          "search": [
+            "what does opa mean",
+            "Opa in different languages"
+          ]
+        },
+        "timestamp": "2025-07-11T20:59:02.466Z"
+      }
+    ]
+  },
+  {
+    "id": "b0fa7c9a-ee14-45b0-b532-b906bb415b07",
+    "nome": "Conversa 2",
+    "mensagens": [
+      {
+        "mensagem": "opa",
+        "resposta": {
+          "response": "Opa! Do you have a question or is there anything I can help you with?",
+          "fontes": [],
+          "search": []
+        },
+        "timestamp": "2025-07-11T21:01:00.449Z"
+      },
+      {
+        "mensagem": "q?",
+        "resposta": {
+          "response": "I'm sorry, your request \"q?\" is too short and unclear for me to understand. Could you please provide more details or rephrase your question?",
+          "fontes": [],
+          "search": []
+        },
+        "timestamp": "2025-07-11T21:09:08.775Z"
+      },
+      {
+        "mensagem": "Fala portugues fia",
+        "resposta": "Ah, mil desculpas! Eu sou uma assistente de sistema, e meu nome é Helena. Como posso te ajudar hoje?",
+        "timestamp": "2025-07-11T21:10:08.652Z"
+      },
+      {
+        "mensagem": "oq acabamos de falar?",
+        "resposta": {
+          "response": "Como sou um modelo de linguagem de IA, não tenho memória de conversas anteriores. Cada interação é nova para mim. Se você quiser se referir a algo que discutimos anteriormente, por favor, me lembre do tópico.",
+          "fontes": [],
+          "search": []
+        },
+        "timestamp": "2025-07-11T21:11:05.011Z"
+      },
+      {
+        "mensagem": "pensei que o contexto da conversa tava sendo passado pra vc",
+        "resposta": "Entendo a sua confusão! É uma distinção importante. Embora eu consiga processar o **contexto imediato** de algumas frases para responder de forma coerente dentro de uma única interação ou rodada de perguntas e respostas, eu não tenho uma \"memória\" persistente ou um histórico de conversas passadas com um usuário específico, como um ser humano teria.\n\nCada vez que você me faz uma pergunta, é como se fosse a primeira vez. Por isso, se a conversa se estende e você se refere a algo que dissemos antes, é útil que você mencione o tópico novamente para que eu possa acompanhar.\n\nEssa característica é devido à minha arquitetura como um modelo de linguagem treinado em vastos volumes de texto, mas sem a capacidade de armazenar interações individuais.",
+        "timestamp": "2025-07-11T21:11:33.748Z"
+      },
+      {
+        "mensagem": "e agora?",
+        "resposta": {
+          "response": "A frase \"e agora?\" é bastante aberta! Para te dar a melhor resposta possível, preciso de um pouco mais de contexto.\n\nNo entanto, aqui estão algumas coisas que você pode fazer, dependendo do que está acontecendo:\n\n*   **Se você tem uma pergunta específica:** Me diga qual é! Posso tentar responder.\n*   **Se você precisa de ajuda com uma tarefa:** Descreva a tarefa e eu farei o meu melhor para ajudar.\n*   **Se você está entediado e procura sugestões:**\n    *   Podemos conversar sobre um tópico que te interesse.\n    *   Posso te contar uma curiosidade ou uma piada.\n    *   Você pode me pedir para gerar uma história, um poema ou até mesmo um código.\n    *   Podemos planejar algo (uma viagem, um projeto, etc.).\n*   **Se você está trabalhando em algo e precisa de um próximo passo:** Me diga o que está fazendo e posso tentar oferecer sugestões.\n\nO que você gostaria de fazer ou saber \"agora\"?",
+          "fontes": [],
+          "search": []
+        },
+        "timestamp": "2025-07-11T21:15:36.548Z"
+      },
+      {
+        "mensagem": "tá recebendo o contexto da conversa?",
+        "resposta": {
+          "response": "Sim, estou recebendo e processando o contexto da nossa conversa para entender melhor suas perguntas e fornecer respostas mais relevantes.",
+          "fontes": [],
+          "search": []
+        },
+        "timestamp": "2025-07-11T21:15:52.409Z"
+      },
+      {
+        "mensagem": "qual foi nossa primeira mensagem?",
+        "resposta": {
+          "response": "Não tenho memória de conversas anteriores. Como um modelo de linguagem, cada interação é nova, e não mantenho um histórico de nossos diálogos passados.",
+          "fontes": [],
+          "search": []
+        },
+        "timestamp": "2025-07-11T21:16:19.983Z"
+      },
+      {
+        "mensagem": "e agr?",
+        "resposta": "Helena: A frase \"e agr?\" é bastante aberta! Para te dar a melhor resposta possível, preciso de um pouco mais de contexto.\n\nNo entanto, aqui estão algumas coisas que você pode fazer, dependendo do que está acontecendo:\n\n*   **Se você tem uma pergunta específica:** Me diga qual é! Posso tentar responder.\n*   **Se você precisa de ajuda com uma tarefa:** Descreva a tarefa e eu farei o meu melhor para ajudar.\n*   **Se você está entediado e procura sugestões:**\n    *   Podemos conversar sobre um tópico que te interesse.\n    *   Posso te contar uma curiosidade ou uma piada.\n    *   Você pode me pedir para gerar uma história, um poema ou até mesmo um código.\n    *   Podemos planejar algo (uma viagem, um projeto, etc.).\n*   **Se você está trabalhando em algo e precisa de um próximo passo:** Me diga o que está fazendo e posso tentar oferecer sugestões.\n\nO que você gostaria de fazer ou saber \"agora\"?",
+        "timestamp": "2025-07-11T21:18:00.091Z"
+      },
+      {
+        "mensagem": "e agr?",
+        "resposta": "Helena: A frase \"e agr?\" é bastante aberta! Para te dar a melhor resposta possível, preciso de um pouco mais de contexto.\n\nNo entanto, aqui estão algumas coisas que você pode fazer, dependendo do que está acontecendo:\n\n*   **Se você tem uma pergunta específica:** Me diga qual é! Posso tentar responder.\n*   **Se você precisa de ajuda com uma tarefa:** Descreva a tarefa e eu farei o meu melhor para ajudar.\n*   **Se você está entediado e procura sugestões:**\n    *   Podemos conversar sobre um tópico que te interesse.\n    *   Posso te contar uma curiosidade ou uma piada.\n    *   Você pode me pedir para gerar uma história, um poema ou até mesmo um código.\n    *   Podemos planejar algo (uma viagem, um projeto, etc.).\n*   **Se você está trabalhando em algo e precisa de um próximo passo:** Me diga o que está fazendo e posso tentar oferecer sugestões.\n\nO que você gostaria de fazer ou saber \"agora\"?",
+        "timestamp": "2025-07-11T21:18:14.834Z"
+      }
+    ]
+  },
+  {
+    "id": "de7691b4-063f-443e-aa66-0ec64605481a",
+    "nome": "Conversa 3",
+    "mensagens": []
+  },
+  {
+    "id": "7427cfb3-d6f5-4503-8d28-ae934349edda",
+    "nome": "Conversa 4",
+    "mensagens": [
+      {
+        "mensagem": "opa",
+        "resposta": "Olá! Como posso te ajudar hoje?",
+        "timestamp": "2025-07-12T20:11:01.793Z"
+      }
+    ]
+  }
+]

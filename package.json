@@ -1,0 +1,23 @@
+{
+  "name": "helena-controlls",
+  "version": "1.0.0",
+  "description": "backend de sistema de controle de software com ia (Helena).",
+  "license": "SEE LICENSE IN LICENSE",
+  "author": "Wellington A. Reis",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@google/genai": "^1.7.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "uuid": "^11.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
